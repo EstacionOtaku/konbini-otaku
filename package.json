@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",
+    "@shopify/shopify-api": "^3.0.1",
     "graphql": "^16.3.0",
+    "nanoid": "^3.3.3",
     "next": "12.1.5",
     "react": "18.0.0",
     "react-dom": "18.0.0"
