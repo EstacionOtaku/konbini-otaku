@@ -64,6 +64,7 @@ const ProductPage = ({ productItem }) => {
             <h4 className="mb-2 text-sm text-gray-600">{tag}</h4>
             <h1 className="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">{title}</h1>
             <div className="flex gap-2">
+              <h2 className="text-xl">S/.{amount}</h2>
               {/* <h2 className="text-xl ">{`S/. ${sale_price || price}`}</h2>
               <h2 className="text-base text-gray-500 line-through">
                 {" "}
