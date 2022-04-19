@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-// import { DEFAULT_IMG_URL } from "../../utils/constants/images";
-// import sanitizeHtml from "sanitize-html";
+
 // import AddToCart from "../Cart/AddToCart";
 
 const Product = ({ product }) => {

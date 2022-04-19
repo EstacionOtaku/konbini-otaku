@@ -15,6 +15,9 @@ export const productsQuery = {
   products(first: 10) {
     edges {
       node {
+        description
+        tags
+        id
         title
         handle
         priceRange {

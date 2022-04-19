@@ -1,33 +1,15 @@
-import { gql } from "@apollo/client";
-import client from "../apollo-client";
-
 import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
+
 import Shopify from "@shopify/shopify-api";
 import Hero from "../components/Hero";
 import { shop, storefrontAccessToken } from "../endpoints";
-import { productsQuery, threeProducts } from "../src/queries/products";
+import { productsQuery } from "../src/queries/products";
 import Products from "../components/Products/Products";
-// import storefront from "../shopify";
-// import { storefrontClient } from "../shopify";
 
 export async function getStaticProps() {
   const storefrontClient = new Shopify.Clients.Storefront(shop, storefrontAccessToken);
 
   const { body } = await storefrontClient.query(productsQuery);
-  // const queryProduct = `{
-  //   products (first: 3) {
-  //   edges {
-  //       node {
-  //        id
-  //         title
-  //     }
-  //    }
-  //    }
-  //  }`;
-  // const products = await storefront(queryProduct);
-  // const allProducts = JSON.parse(JSON.stringify(products));
   return {
     props: {
       products: body.data.products.edges,
@@ -36,6 +18,7 @@ export async function getStaticProps() {
 }
 
 export default function Home({ products }) {
+  console.log(products);
   return (
     <>
       <Head>
