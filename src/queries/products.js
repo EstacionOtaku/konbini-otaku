@@ -1,15 +1,3 @@
-export const threeProducts = {
-  data: `{
-    products (first: 3) {
-      edges {
-        node {
-          id
-          title
-        }
-      }
-    }
-  }`,
-};
 export const productsQuery = {
   data: `{
   products(first: 10) {
