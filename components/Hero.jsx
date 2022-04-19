@@ -1,7 +1,6 @@
 import Link from "next/link";
 
 const Hero = ({ shopInfo, products }) => {
-  console.log(products[0].node);
   const { title, handle, priceRange } = products[0].node;
   const amount = priceRange.minVariantPrice.amount.slice(0, -2);
 
