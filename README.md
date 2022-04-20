@@ -6,3 +6,4 @@ Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual
 
 <h2 align="center"> <img src="https://i.postimg.cc/QM4tjzT9/logo-konbini.jpg)](https://postimg.cc/HJMH2B3d"></h2>
 
+Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
