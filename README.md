@@ -37,9 +37,7 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 ## Arquitectura del proyecto
       
 [![esquema.jpg](https://i.postimg.cc/GhX38Pnn/esquema.jpg)](https://postimg.cc/zVRY4gfx)
-         
-[![web-konbini2.png](https://i.postimg.cc/FKLTWBRW/web-konbini2.png)](https://postimg.cc/GBbP9zvG)
-         
+                 
 ## Lenguajes y herramientas
 Se utilizaron diversas herramientas en una primera etapa, para el diseño gráfico, esquemas, mocks, y linea gráfica de la marca "Konbini Otaku" y estudio UX/UI.
 En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los siguientes lenguajes y tecnologías aprendidas durante el módulo Front End del Bootcamp:
