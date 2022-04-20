@@ -28,7 +28,7 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 
 ### Vista pantalla completa en laptop
          
-[![web-konbini.png](https://i.postimg.cc/FzZWbkRh/web-konbini.png)](https://postimg.cc/30kFYRmq)
+[![web-konbini.jpg](https://i.postimg.cc/j2ZcnVg5/web-konbini.jpg)](https://postimg.cc/300mzqH5)
           
 [![web-konbini2.png](https://i.postimg.cc/FKLTWBRW/web-konbini2.png)](https://postimg.cc/GBbP9zvG)
        
