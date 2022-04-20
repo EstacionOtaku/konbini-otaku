@@ -10,6 +10,7 @@ import { useState } from "react";
 // import { checkoutMutation } from "../../src/queries/checkout";
 import shopify, { storefront } from "../../shopify";
 import Layout from "../../components/Layout";
+import { useRouter } from "next/router";
 
 export const getStaticPaths = async () => {
   const storefrontClient = new Shopify.Clients.Storefront(shop, storefrontAccessToken);
@@ -68,13 +69,17 @@ const ProductPage = ({ productItem }) => {
     const { data } = await shopify(checkoutMutation, variantId);
     const { webUrl } = await data.checkoutCreate.checkout;
     console.log(webUrl);
+    //Checkout Button
     // const { data } = await storefront(checkoutMutation, variantId);
-    // console.log(data);
-    // const { webUrl } = data.checkoutCreate.checkout;
-    // console.log(webUrl);
     // const response = await storefront(checkoutMutation, variantId);
     // console.log(response);
   }
+
+  const router = useRouter();
+  const handleWACLick = () => {
+    router.push("/", null, { shallow: true });
+  };
+
   return (
     <Layout title={title} description={description}>
       <section className="grid items-start w-11/12 , grid-cols-1 md:grid-cols-2 p-6 mx-auto md:max-w-screen-lg md:flex-row gap-4 lg:gap-5 ">
@@ -112,7 +117,7 @@ const ProductPage = ({ productItem }) => {
           <div className="mt-4 lg:mt-0">
             <h2 className="sr-only">Product information</h2>
             <div className="flex flex-col gap-5 lg:flex-row">
-              <button
+              {/* <button
                 onClick={handleCheckoutClick}
                 className="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white transition-colors bg-gray-900 border border-transparent rounded-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
               >
@@ -139,13 +144,14 @@ const ProductPage = ({ productItem }) => {
                   </svg>
                 )}
                 Pagar ahora S/.{amount}
-              </button>
+              </button> */}
               {/*  BOTON DE WHATS APP */}
-              <WhatsAppButton title={title} amount={amount} tag={tag} />
+              <WhatsAppButton handleWAclick={handleWACLick} title={title} amount={amount} tag={tag} />
             </div>
             <p className="mt-5 text-xs text-gray-800">
               *Pedidos por WhatsApp: Si estas en una computadora, asegúrate de que este activado el WhatsApp Web
             </p>
+            <p className="mt-5 text-xs text-gray-800">*Pronto se habilitaran otros medios de pago.</p>
           </div>
           {/* Price and ADD TO CART  END */}
         </div>
