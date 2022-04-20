@@ -15,9 +15,7 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 ## Esquemas / Moodboard
      
 [![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
-       
-[![tienda-1.jpg](https://i.postimg.cc/Kvfj7SLV/tienda-1.jpg)](https://postimg.cc/HVJTHN64)
-
+           
 ### Nuestra presentación
 
 
@@ -29,9 +27,11 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
-        
+         
 [![web-konbini.png](https://i.postimg.cc/FzZWbkRh/web-konbini.png)](https://postimg.cc/30kFYRmq)
-
+          
+[![web-konbini2.png](https://i.postimg.cc/FKLTWBRW/web-konbini2.png)](https://postimg.cc/GBbP9zvG)
+       
 ### Vista responsive en mobile
 
 ## Arquitectura del proyecto
