@@ -6,6 +6,14 @@ export const productsQuery = {
         description
         tags
         id
+        variants(first:1) {
+          edges {
+            node {
+              id
+              
+            }
+          }
+        }
         title
         handle
         priceRange {
