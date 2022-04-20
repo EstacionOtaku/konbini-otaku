@@ -30,8 +30,10 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
          
 [![web-konbini.jpg](https://i.postimg.cc/j2ZcnVg5/web-konbini.jpg)](https://postimg.cc/300mzqH5)
           
-[![web-konbini2.png](https://i.postimg.cc/FKLTWBRW/web-konbini2.png)](https://postimg.cc/GBbP9zvG)
-       
+[![web-konbini2.jpg](https://i.postimg.cc/QxKKTGny/web-konbini2.jpg)](https://postimg.cc/KRF86VbP)
+      
+[![web-konbini3.jpg](https://i.postimg.cc/kXwMGj7p/web-konbini3.jpg)](https://postimg.cc/nCjfwGj4)
+        
 ### Vista responsive en mobile
 
 ## Arquitectura del proyecto
