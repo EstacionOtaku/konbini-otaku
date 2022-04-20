@@ -25,7 +25,6 @@ export async function getStaticProps() {
 }
 
 export default function Home({ products, shopInfo }) {
-  console.log(shopInfo);
   return (
     <>
       <Head>
