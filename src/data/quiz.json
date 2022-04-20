@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "¿Cuántos  distritos podemos encontrar en total en Shingeki no kyojin?",
+      "image": "https://i.postimg.cc/Kc11cPmK/question1.jpg",
+      "choices": ["25", "8", "13", "15"],
+      "answer": "13"
+    },
+    {
+      "question": "¿Quién es lider y fundador de SSS Shinda Sekai Sensen en Angel Beats?",
+      "image": "https://i.postimg.cc/GmntQt6q/question2.jpg",
+      "choices": ["Yuri Nakamura", "Eri Shiina", "Kurisu Makise", "Miyuki Irie"],
+      "answer": "Yuri Nakamura"
+    },
+    {
+      "question": "¿Cómo se llaman los ojos de un Ghoul, en Tokyo Ghoul?",
+      "image": "https://i.postimg.cc/fbLV3FGN/question3.jpg",
+      "choices": ["Kakugan", "Bakugan", "Bokugan", "Makugan"],
+      "answer": "Kakugan"
+    },
+    {
+      "question": "¿Cuál de estos personajes fue el primero en conseguir una victoria en el torneo de Fairy Tail?",
+      "image": "https://i.postimg.cc/sg2jKWwP/question4.jpg",
+      "choices": ["Elfman Strauss", "Erza Scarlet", "Rishad Boromir", "Zeref Dragneel"],
+      "answer": "Elfman Strauss"
+    },
+    {
+      "question": "En Sailor Moon, ¿Quién es el Guardián de los Sueños?",
+      "image": "https://i.postimg.cc/XXS5d8wg/question5.jpg",
+      "choices": ["Dreamer", "Aya Hisakawa", "Seiya Kou", "Pegasus"],
+      "answer": "Pegasus"
+    },
+    {
+      "question": "¿Dónde vive Naruto?",
+      "image": "https://i.postimg.cc/Fs5GjgFq/question6.jpg",
+      "choices": ["Konoha", "Alabasta", "Komodo", "Namek"],
+      "answer": "Konoha"
+    },
+    {
+      "question": "¿Cuál es el nombre de la espada de Meliodas en The Seven Deadly Sins?",
+      "image": "https://i.postimg.cc/qBnxMhcG/question7.jpg",
+      "choices": ["Espada de la luz", "Espada rota", "Espada de dragón verde", "Espada de la rosa"],
+      "answer": "Espada rota"
+    },
+    {
+      "question": "En Haikyuu, ¿de quién es el apodo El rey de la pista?",
+      "image": "https://i.postimg.cc/tJHPVkdN/question8.jpg",
+      "choices": ["Toru Oikawa", "Hinata Shoyo", "Killua Zoldyck", "Tobio Kageyama"],
+      "answer": "Tobio Kageyama"
+    },
+    {
+      "question": "¿Qué significa la palabra Shinigami?",
+      "image": "https://i.postimg.cc/GtctC5JV/question9.jpg",
+      "choices": ["Dios de la muerte", "Devorador de almas", "Guardián del bosque oscuro", "Protector del Death Note"],
+      "answer": "Dios de la muerte"
+    },
+    {
+      "question": "¿Cuál ha sido la única película de animación japonesa en ganar un Oscar?",
+      "image": "https://i.postimg.cc/qqMJYCpd/question10.jpg",
+      "choices": ["El viaje de Chihiro", "El amor está en el agua", "Your name", "El recuerdo de Marnie"],
+      "answer": "El viaje de Chihiro"
+    },
+    {
+      "question": "¿Cuál es el anime más largo a día de hoy?",
+      "image": "https://i.postimg.cc/Y2nL7tZx/question11.jpg",
+      "choices": ["One piece", "Sazae-san", "Doraemon", "Death note"],
+      "answer": "Sazae-san"
+    },
+    {
+      "question": "¿Quién fue el creador de Dragon Ball?",
+      "image": "https://i.postimg.cc/J4RHVP1j/question12.jpg",
+      "choices": ["Akira Nagazaki", "Hayao Miyazaki", "Takeshi Kitano", "Akira Toriyama"],
+      "answer": "Akira Toriyama"
+    }
+  ]
+}
