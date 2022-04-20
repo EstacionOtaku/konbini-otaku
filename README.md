@@ -2,7 +2,7 @@
 
 Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quizz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
 
-¿Aceptas nuestro reto?
+### ¿Aceptas nuestro reto?
 
 <h2 align="center"> <img src="https://i.postimg.cc/QM4tjzT9/logo-konbini.jpg)](https://postimg.cc/HJMH2B3d"></h2>
 
@@ -37,8 +37,8 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 [![esquema.jpg](https://i.postimg.cc/GhX38Pnn/esquema.jpg)](https://postimg.cc/zVRY4gfx)
 
 ## Lenguajes y herramientas
-Se utilizaron diversas herramientas en una primera etapa, para el diseño gráfico, esquemas, mocks, y linea gráfica de la marca "Estación Otaku" y estudio UX/UI.
-En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los siguientes lenguajes y tecnologías durante el módulo Front End del Bootcamp:
+Se utilizaron diversas herramientas en una primera etapa, para el diseño gráfico, esquemas, mocks, y linea gráfica de la marca "Konbini Otaku" y estudio UX/UI.
+En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los siguientes lenguajes y tecnologías aprendidas durante el módulo Front End del Bootcamp:
 
 <table>
     <thead>
