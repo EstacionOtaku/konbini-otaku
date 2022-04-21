@@ -1,6 +1,6 @@
 # Konbini Otaku 💬🛒⛩️🎌 - Reto Final (parte 2)
 
-Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quizz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
+Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
 
 ### ¿Aceptas nuestro reto?
 
@@ -8,19 +8,27 @@ Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual
 
 Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
 
+1️⃣ Landing page: Podrás descubrir los productos que tenemos en venta en nuestro catálogo.
+
+2️⃣ Información de producto: Contiene la información de cada producto. Podrás ver la imagen en mayor tamaño, así como mayor información del producto. Tenemos un botón de pedido por Whatsapp, a partir del cual podrás comunicarte con nuestra tienda.
+
+3️⃣ Quiz: Te invitamos a resolver nuestro quiz sobre animes. Responde las 12 preguntas. Al final podrás revisar tus respuestas.
+
 ## Instalación 💻
-
-
-
-## Esquemas / Moodboard
+- Ubicarse en la carpeta del proyecto
+- Abrir la terminal de comandos
+  - git clone https://github.com/EstacionOtaku/konbini-otaku.git
+  - cd konbini-otaku
+  - npm run dev
+    - Levanta un servidor con la aplicación
+  - npm run build
+    - Genera un paquete para el despliegue en producción
      
+## Esquemas / Moodboard
+      
 [![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
            
 ### Nuestra presentación
-
-
-
-### Nuestro Figma
 
 
 
