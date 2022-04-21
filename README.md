@@ -1,6 +1,6 @@
 # Konbini Otaku 💬🛒⛩️🎌 - Reto Final (parte 2)
 
-Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
+Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Konbini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
 
 ### ¿Aceptas nuestro reto?
 
@@ -28,13 +28,13 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
      
 ## Esquemas / Moodboard
       
-[![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
+[![konbini-esquema.jpg](https://i.postimg.cc/hGNwr4RW/konbini-esquema.jpg)](https://postimg.cc/Z9FVYSqV)
            
 [![konbini-moodboard.jpg](https://i.postimg.cc/pVj4yCBk/konbini-moodboard.jpg)](https://postimg.cc/Wt2XHMCJ)
         
 ### Nuestra presentación
       
-https://docs.google.com/presentation/d/1wH8sbM2pj-48FgPW020vlZYQtMEUp6jeN3agcpGjZJE/edit#slide=id.gf3ddc87945_0_981
+https://docs.google.com/presentation/d/1Db7aqM9pRuBkgFy06OlU4AN9Uis4aNWZd8W8IYk3niI/edit?usp=sharing
          
 ## Vistas del proyecto
 
