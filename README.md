@@ -70,8 +70,8 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         <th>CSS</th>
         <th>JavaScript</th>
         <th>Axios</th>
-        <th>WOO Commerce Rest API</th>
-        <th>Wordpress</th>
+        <th>Shopify Storefront API</th>
+        <th>Graphql</th>
         <th>React Icons</th>   
         <th>Tailwind CSS</th>   
         <th>Figma</th>
@@ -101,11 +101,11 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         </td>
         <td>
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMk0tTzWwBwt2GZVdkLxWn5YqSafX7n81hhxOQXZaSz01TCPvh88NKLemz8uzOcF3Ch3g&usqp=CAU" width="100%" />
+            src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" width="100%" />
         </td>
         <td>
           <img
-            src="https://www.neolo.com/aprende/wp-content/uploads/2014/10/wordpress-logo-simplified-rgb.png" width="100%" />
+            src="https://www.returngis.net/wp-content/uploads/2019/08/graphql-logo.png" width="100%" />
         </td>
         <td>
           <img            src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" width="100%" />
