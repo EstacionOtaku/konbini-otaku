@@ -6,13 +6,15 @@ Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual
 
 <h2 align="center"> <img src="https://i.postimg.cc/QM4tjzT9/logo-konbini.jpg)](https://postimg.cc/HJMH2B3d"></h2>
 
-Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
+Para vivir la experiencia completa en Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
 
-1️⃣ Landing page: Podrás descubrir los productos que tenemos en venta en nuestro catálogo.
+1️⃣ Landing page: contiene un Header, un botón de "la promoción del mes" (Poster Bleach a S/. 25) y la sección de productos en venta. Podrás descubrir todos los productos que tenemos nuestro catálogo.
 
-2️⃣ Información de producto: Contiene la información de cada producto. Podrás ver la imagen en mayor tamaño, así como mayor información del producto. Tenemos un botón de pedido por Whatsapp, a partir del cual podrás comunicarte con nuestra tienda.
+2️⃣ Información del producto: muestra la información de cada producto. Podrás ver la imagen en mayor tamaño, así como mayor información. Tenemos un botón de pedido por Whatsapp, en el cual podrás comunicarte con nuestra tienda y continuar tu compra.
 
-3️⃣ Quiz: Te invitamos a resolver nuestro quiz sobre animes. Responde las 12 preguntas. Al final podrás revisar tus respuestas.
+3️⃣ Quiz Otaku: Te invitamos a resolver nuestro quiz sobre animes. Responde las 12 preguntas y al final podrás revisar tus respuestas.
+
+Adicional: Nuestra tienda presenta links directos a "Estación Otaku" (web de streaming de animes) y a la página de Nosotros (conoce a nuestro equipo).
 
 ## Instalación 💻
 - Ubicarse en la carpeta del proyecto
