@@ -34,7 +34,7 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
         
 ### Nuestra presentación
       
-https://docs.google.com/presentation/d/17FXwwhRtSAzhbC3olsyFVBZtzNoIGOTLzXMHH6qXGCY/edit?usp=sharing
+https://docs.google.com/presentation/d/1wH8sbM2pj-48FgPW020vlZYQtMEUp6jeN3agcpGjZJE/edit#slide=id.gf3ddc87945_0_981
          
 ## Vistas del proyecto
 
