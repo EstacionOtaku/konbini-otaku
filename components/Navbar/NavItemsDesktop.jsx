@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const NavItemsDesktop = ({ menuItems }) => {
   return (
-    <ul className="items-center justify-center hidden w-8/12 space-x-8 md:flex">
+    <ul className="items-center justify-center hidden w-8/12 space-x-8 md:flex ">
       {menuItems.map((item) => {
         let uniqueId = nanoid();
         return (
