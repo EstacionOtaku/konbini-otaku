@@ -38,7 +38,7 @@ const Navbar = () => {
 
                 <NavItemsDesktop menuItems={menuItems} />
                 <div className="flex items-center justify-end space-x-4 md:w-2/12 xl:space-x-8">
-                  <div className="items-center hidden md:flex">
+                  {/* <div className="items-center hidden md:flex">
                     <button
                       onClick={() => setSearchInput(!searchInput)}
                       aria-label="search items"
@@ -76,8 +76,8 @@ const Navbar = () => {
                         searchInput ? "hidden" : ""
                       } text-sm dark:bg-gray-900 dark:placeholder-gray-300 text-gray-600 rounded ml-1 border border-transparent focus:outline-none focus:border-gray-400 px-1`}
                     />
-                  </div>
-                  <div className="items-center hidden space-x-4 md:flex xl:space-x-8">
+                  </div> */}
+                  {/* <div className="items-center hidden space-x-4 md:flex xl:space-x-8">
                     <button
                       aria-label="go to cart"
                       className="text-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-800"
@@ -113,7 +113,7 @@ const Navbar = () => {
                         />
                       </svg>
                     </button>
-                  </div>
+                  </div> */}
                   <div className="flex lg:hidden">
                     <button
                       aria-label="open menu"
