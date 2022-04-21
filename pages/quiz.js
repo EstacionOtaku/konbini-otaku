@@ -43,7 +43,7 @@ const Quiz = () => {
 
   return (
     <Layout title="Quiz">
-      <section className="py-6 font-sans quizz">
+      <section className="py-6 font-sans quizz h-full">
         {step === 1 && <Start onQuizStart={quizStartHandler} />}
         {step === 2 && (
           <Question
