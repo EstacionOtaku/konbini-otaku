@@ -30,10 +30,12 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
       
 [![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
            
+[![konbini-moodboard.jpg](https://i.postimg.cc/pVj4yCBk/konbini-moodboard.jpg)](https://postimg.cc/Wt2XHMCJ)
+        
 ### Nuestra presentación
-
-
-
+      
+https://docs.google.com/presentation/d/17FXwwhRtSAzhbC3olsyFVBZtzNoIGOTLzXMHH6qXGCY/edit?usp=sharing
+         
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
@@ -45,9 +47,7 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
 [![web-konbini2.jpg](https://i.postimg.cc/zvkbtRVB/web-konbini2.jpg)](https://postimg.cc/K3R84j7S)
       
 [![web-konbini3.jpg](https://i.postimg.cc/kXwMGj7p/web-konbini3.jpg)](https://postimg.cc/nCjfwGj4)
-         
-[![web-konbini4.jpg](https://i.postimg.cc/Hx4DKxxh/web-konbini4.jpg)](https://postimg.cc/LYXbgmjt)
-       
+        
 ### Vista responsive en mobile
     
 [![mobile-konbini1.jpg](https://i.postimg.cc/pVCMJp39/mobile-konbini1.jpg)](https://postimg.cc/vD4KQHYM)
@@ -60,7 +60,7 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
       
 ## Arquitectura del proyecto
       
-[![esquema.jpg](https://i.postimg.cc/GhX38Pnn/esquema.jpg)](https://postimg.cc/zVRY4gfx)
+[![konbini-arquitectura.jpg](https://i.postimg.cc/mgPQ2XYg/konbini-arquitectura.jpg)](https://postimg.cc/ZWh9wLsG)
                  
 ## Lenguajes y herramientas
 Se utilizaron diversas herramientas en una primera etapa, para el diseño gráfico, esquemas, mocks, y linea gráfica de la marca "Konbini Otaku" y estudio UX/UI.
@@ -75,7 +75,7 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         <th>JavaScript</th>
         <th>Axios</th>
         <th>Shopify Storefront API</th>
-        <th>Graphql</th>
+        <th>GraphQL</th>
         <th>React Icons</th>   
         <th>Tailwind CSS</th>   
         <th>Figma</th>
@@ -100,7 +100,7 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         </td>         
         <td>
           <img
-            src="https://www.carepredict.com/wp-content/uploads/2020/06/Axios-logo.png" width="100%" />
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/2560px-Axios_logo_%282020%29.svg.png" width="100%" />
         </td>
         <td>
           <img
