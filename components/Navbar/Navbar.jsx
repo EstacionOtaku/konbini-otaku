@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="container mx-auto">
           <div className="relative">
             {/* For large screens */}
-            <div className="px-6 py-4  bg-gray-50">
+            <div className="px-6 py-4  ">
               <div className="container flex items-center justify-between mx-auto">
                 {/* Logo */}
                 <Link href="/" passHref>
@@ -158,41 +158,12 @@ const Navbar = () => {
             {/* For small screen */}
             <div
               id="mobile-menu"
-              className={`${showMenu ? "flex" : "hidden"} absolutez-10 inset-0  bg-white flex-col h-screen w-full`}
+              className={`${
+                showMenu ? "absolute" : "hidden"
+              }  top-0 left-0 inset-0  bg-white flex-col h-screen w-full z-50`}
             >
               <div className="flex items-center justify-between p-4 pb-4 border-b border-gray-200 dark:border-gray-700">
-                <div className="flex items-center space-x-3">
-                  <div>
-                    <svg
-                      className="text-gray-800 fill-stroke "
-                      width={20}
-                      height={20}
-                      viewBox="0 0 20 20"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M9 17C13.4183 17 17 13.4183 17 9C17 4.58172 13.4183 1 9 1C4.58172 1 1 4.58172 1 9C1 13.4183 4.58172 17 9 17Z"
-                        stroke="currentColor"
-                        strokeWidth="1.25"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M18.9984 18.9999L14.6484 14.6499"
-                        stroke="currentColor"
-                        strokeWidth="1.25"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </div>
-                  <input
-                    type="text"
-                    placeholder="Search for products"
-                    className="text-sm text-gray-600 placeholder-gray-600 focus:outline-none"
-                  />
-                </div>
+                <div className="flex items-center space-x-3"></div>
                 <button
                   onClick={() => setShowMenu(false)}
                   aria-label="close menu"
@@ -200,8 +171,8 @@ const Navbar = () => {
                 >
                   <svg
                     className="text-gray-800 fill-stroke "
-                    width={16}
-                    height={16}
+                    width={25}
+                    height={25}
                     viewBox="0 0 16 16"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -212,9 +183,9 @@ const Navbar = () => {
                 </button>
               </div>
               {/* NAV ITEMS IN MOBILE VERSION */}
-              <div className="p-4 mt-6">
+              <div className="p-4 ">
                 {" "}
-                <NavItemsMobile menuItems={menuItems} />
+                <NavItemsMobile setShowMenu={setShowMenu} menuItems={menuItems} />
               </div>
             </div>
           </div>

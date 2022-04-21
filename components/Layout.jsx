@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navbar from "./Navbar/Navbar.jsx";
 import icon from "../public/favicon-ko.svg";
+import Footer from "./Footer.jsx";
 const Layout = ({ children, title, description }) => {
   const pageTitle = title ? `${title} | Konbini otaku` : "Konbini Otaku";
   const pageDescription = description || "La tienda Oficial de Estación Otaku";
@@ -14,6 +15,7 @@ const Layout = ({ children, title, description }) => {
       </Head>
       <Navbar />
       <main>{children}</main>
+      <Footer />
     </>
   );
 };
