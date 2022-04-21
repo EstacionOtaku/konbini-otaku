@@ -14,7 +14,7 @@ Para vivir la experiencia completa en Konbini Otaku 🛒, hemos dividido nuestra
 
 3️⃣ Quiz Otaku: Te invitamos a resolver nuestro quiz sobre animes. Responde las 12 preguntas y al final podrás revisar tus respuestas.
 
-Adicional: Nuestra tienda presenta links directos a "Estación Otaku" (web de streaming de animes) y a la página de Nosotros (conoce a nuestro equipo).
+Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming de animes) y a la página de Nosotros (conoce a nuestro equipo).
 
 ## Instalación 💻
 - Ubicarse en la carpeta del proyecto
