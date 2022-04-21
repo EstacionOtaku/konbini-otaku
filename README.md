@@ -1,26 +1,36 @@
 # Konbini Otaku 💬🛒⛩️🎌 - Reto Final (parte 2)
 
-Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quizz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
+Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
 
 ### ¿Aceptas nuestro reto?
 
 <h2 align="center"> <img src="https://i.postimg.cc/QM4tjzT9/logo-konbini.jpg)](https://postimg.cc/HJMH2B3d"></h2>
 
-Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
+Para vivir la experiencia completa en Konbini Otaku 🛒, hemos dividido nuestra web en las siguientes secciones:
+
+1️⃣ Landing page: contiene un Header, un botón de "la promoción del mes" (Poster Bleach a S/. 25) y la sección de productos en venta. Podrás descubrir todos los productos que tenemos nuestro catálogo.
+
+2️⃣ Información del producto: muestra la información de cada producto. Podrás ver la imagen en mayor tamaño, así como mayor información. Tenemos un botón de pedido por Whatsapp, en el cual podrás comunicarte con nuestra tienda y continuar tu compra.
+
+3️⃣ Quiz Otaku: Te invitamos a resolver nuestro quiz sobre animes. Responde las 12 preguntas y al final podrás revisar tus respuestas.
+
+Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming de animes) y a la página de Nosotros (conoce a nuestro equipo).
 
 ## Instalación 💻
-
-
-
-## Esquemas / Moodboard
+- Ubicarse en la carpeta del proyecto
+- Abrir la terminal de comandos
+  - git clone https://github.com/EstacionOtaku/konbini-otaku.git
+  - cd konbini-otaku
+  - npm run dev
+    - Levanta un servidor con la aplicación
+  - npm run build
+    - Genera un paquete para el despliegue en producción
      
+## Esquemas / Moodboard
+      
 [![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
            
 ### Nuestra presentación
-
-
-
-### Nuestro Figma
 
 
 
@@ -28,12 +38,22 @@ Para vivir la experiencia completa en la Konbini Otaku 🛒, hemos dividido nues
 
 ### Vista pantalla completa en laptop
          
-[![web-konbini.png](https://i.postimg.cc/FzZWbkRh/web-konbini.png)](https://postimg.cc/30kFYRmq)
+[![web-konbini.jpg](https://i.postimg.cc/j2ZcnVg5/web-konbini.jpg)](https://postimg.cc/300mzqH5)
           
-[![web-konbini2.png](https://i.postimg.cc/FKLTWBRW/web-konbini2.png)](https://postimg.cc/GBbP9zvG)
+[![web-konbini2.jpg](https://i.postimg.cc/QxKKTGny/web-konbini2.jpg)](https://postimg.cc/KRF86VbP)
+      
+[![web-konbini3.jpg](https://i.postimg.cc/kXwMGj7p/web-konbini3.jpg)](https://postimg.cc/nCjfwGj4)
+         
+[![web-konbini4.jpg](https://i.postimg.cc/Hx4DKxxh/web-konbini4.jpg)](https://postimg.cc/LYXbgmjt)
        
 ### Vista responsive en mobile
-
+    
+[![mobile-konbini1.jpg](https://i.postimg.cc/pVCMJp39/mobile-konbini1.jpg)](https://postimg.cc/vD4KQHYM)
+        
+[![mobile-konbini2.jpg](https://i.postimg.cc/XNQtytyd/mobile-konbini2.jpg)](https://postimg.cc/PNvSg3y5)
+       
+[![mobile-konbini3.jpg](https://i.postimg.cc/hGL54YBJ/mobile-konbini3.jpg)](https://postimg.cc/yJNPvvWB)
+      
 ## Arquitectura del proyecto
       
 [![esquema.jpg](https://i.postimg.cc/GhX38Pnn/esquema.jpg)](https://postimg.cc/zVRY4gfx)
