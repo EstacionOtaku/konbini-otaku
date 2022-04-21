@@ -39,8 +39,10 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
 ### Vista pantalla completa en laptop
          
 [![web-konbini.jpg](https://i.postimg.cc/j2ZcnVg5/web-konbini.jpg)](https://postimg.cc/300mzqH5)
+
+[![web-konbini1-5.jpg](https://i.postimg.cc/DwwsN5QK/web-konbini1-5.jpg)](https://postimg.cc/SJHJ26tZ)
           
-[![web-konbini2.jpg](https://i.postimg.cc/QxKKTGny/web-konbini2.jpg)](https://postimg.cc/KRF86VbP)
+[![web-konbini2.jpg](https://i.postimg.cc/zvkbtRVB/web-konbini2.jpg)](https://postimg.cc/K3R84j7S)
       
 [![web-konbini3.jpg](https://i.postimg.cc/kXwMGj7p/web-konbini3.jpg)](https://postimg.cc/nCjfwGj4)
          
@@ -51,8 +53,10 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
 [![mobile-konbini1.jpg](https://i.postimg.cc/pVCMJp39/mobile-konbini1.jpg)](https://postimg.cc/vD4KQHYM)
         
 [![mobile-konbini2.jpg](https://i.postimg.cc/XNQtytyd/mobile-konbini2.jpg)](https://postimg.cc/PNvSg3y5)
-       
-[![mobile-konbini3.jpg](https://i.postimg.cc/hGL54YBJ/mobile-konbini3.jpg)](https://postimg.cc/yJNPvvWB)
+        
+[![mobile-konbini3.jpg](https://i.postimg.cc/25v59BtD/mobile-konbini3.jpg)](https://postimg.cc/4KfZmnZL)
+      
+[![mobile-konbini4.jpg](https://i.postimg.cc/gjyRCTBG/mobile-konbini4.jpg)](https://postimg.cc/vxBc93sK)
       
 ## Arquitectura del proyecto
       
@@ -76,8 +80,7 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         <th>Tailwind CSS</th>   
         <th>Figma</th>
         <th>Photoshop</th>
-        <th>Nano ID</th>
-        <th>Tidio</th>
+        <th>Nano ID</th>     
       </tr>
     </thead>
     <tbody>
@@ -122,10 +125,7 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         </td> 
         <td>
           <img src="https://i.postimg.cc/KzQYK9jL/nano-id.jpg" width="100%" />
-        </td>    
-        <td>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzj8O5IxhaNkGFi3QuVKac3RtsOsLfEpCiEsVfJ-yfIedqyOtBoAn7GRJGufVyhYsk-A&usqp=CAU" width="100%" />
-        </td> 
+        </td>     
       </tr>
     </tbody>
 </table>
