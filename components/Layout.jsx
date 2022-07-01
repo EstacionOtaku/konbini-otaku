@@ -1,8 +1,7 @@
 import Head from "next/head";
 import Navbar from "./Navbar/Navbar.jsx";
-
-
 import Footer from "./Footer.jsx";
+
 const Layout = ({ children, title, description }) => {
   const pageTitle = title ? `${title} | Konbini otaku` : "Konbini Otaku";
   const pageDescription = description || "La tienda Oficial de Estación Otaku";
