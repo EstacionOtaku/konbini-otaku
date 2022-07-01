@@ -1,2 +1,1 @@
-export const storefrontAccessToken = process.env.STOREFRONT_ACCESS_TOKEN;
-export const shop = process.env.SHOPIFY_URL;
+export const baseURL = `https://${process.env.API_BASE_URL}`;
