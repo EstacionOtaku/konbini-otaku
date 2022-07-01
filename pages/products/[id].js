@@ -1,13 +1,12 @@
 import Image from "next/image";
-
 import WhatsAppButton from "../../components/Buttons/WhatsAppButton.jsx";
-import { useEffect, useState } from "react";
-// import { checkoutMutation } from "../../src/queries/checkout";
-import shopify from "../../shopify";
+import Link from "next/link";
+import { useState } from "react";
 import Layout from "../../components/Layout";
 import { useRouter } from "next/router";
 import axios from "axios";
 import { baseURL } from "../../endpoints.js";
+import { findProp } from "../../utils/findProp.js";
 
 export const getStaticPaths = async () => {
   const { data: productData } = await axios.get(`${baseURL}/products`);
@@ -18,11 +17,6 @@ export const getStaticPaths = async () => {
     paths,
     fallback: false,
   };
-};
-
-const findProp = (data, identifier) => {
-  const item = data.find((item) => item.id === identifier);
-  return item;
 };
 
 export const getStaticProps = async (context) => {
@@ -50,8 +44,8 @@ const ProductPage = ({ productItem, categoryItem, seriesItem }) => {
   const [isLoading, setIsLoading] = useState(false);
 
   const { name, description, image, price } = productItem;
-  const { name: categoryName } = categoryItem;
-  const { name: seriesName } = seriesItem;
+  const { name: categoryName, id: categoryId } = categoryItem;
+  const { name: seriesName, id: seriesId } = seriesItem;
 
   const router = useRouter();
 
@@ -76,7 +70,7 @@ const ProductPage = ({ productItem, categoryItem, seriesItem }) => {
         <div className="max-w-2xl mx-auto pb-16 px-4 sm:px-0 lg:pt-0 lg:pb-24 lg:grid lg:grid-cols-1 lg:grid-rows-[auto,auto,1fr] ">
           <div className="lg:col-span-2 ">
             <h4 className="mb-2 text-sm text-gray-600">
-              {categoryName} | {seriesName}
+              <Link href={`/categories/${categoryId}`}>{categoryName}</Link> | <Link href={`/animes/${seriesId}`}>{seriesName}</Link>
             </h4>
             <h1 className="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">{name}</h1>
             <div className="flex gap-2">

@@ -8,7 +8,6 @@ import { baseURL } from "../endpoints";
 
 export async function getStaticProps() {
   const { data } = await axios.get(`${baseURL}/products`);
-  console.log(data);
   return {
     props: {
       data,
@@ -18,7 +17,6 @@ export async function getStaticProps() {
 }
 
 export default function Home({ data }) {
-  console.log(data);
   return (
     <>
       <Layout>
