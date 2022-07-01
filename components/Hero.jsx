@@ -23,9 +23,9 @@ const Hero = ({ data }) => {
 
   return (
     <section className="relative overflow-hidden bg-white sans">
-      <div className="max-w-[90%] gap-y-8 gap-x-4 md:max-w-7xl mx-auto grid grid-cols-2 grid-rows-4 h-[100vh] ">
-        <div className="col-span-2 relative row-span-2 hover:opacity-75 transition-all">
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 px-5 py-3 z-50 w-[70%] md:w-2/3 transparency-bg text-gray-900 flex flex-col gap-2 ">
+      <div className="max-w-[90%] gap-y-8 gap-x-4 md:gap-x-8 md:max-w-7xl mx-auto grid grid-cols-2 grid-rows-2 h-[100vh] md:grid-cols-6  ">
+        <div className="col-span-2 md:row-span-2 md:col-span-4 relative hover:opacity-75 transition-all ">
+          <div className="absolute top-1/2 left-1/2 md:left-1/4  md:-translate-x-1/4 -translate-x-1/2 -translate-y-1/2 px-5 py-3 z-50 w-[70%] md:w-2/3 transparency-bg text-gray-900 flex flex-col gap-2 ">
             <h3 className="text-3xl font-extrabold tracking-tight  sm:text-5xl md:text-6xl">{CTABigger.ctaTitle}</h3>
             <p className="leading-5 font-semibold"> {CTABigger.ctaText}</p>
             <Link href={""} passHref>
@@ -36,12 +36,12 @@ const Hero = ({ data }) => {
             <ImageComponent src={CTABigger.image} alt={CTABigger.ctaTitle} />
           </div>
         </div>
-        <div className="col-start-1 col-end-2 row-span-2   flex flex-col hover:opacity-75 transition-all text-gray-800">
+        <div className="col-start-1 col-end-2 md:col-start-5 md:col-end-7 row-start-2 row-end-3  md:row-start-1 md:row-end-2  flex flex-col hover:opacity-75 transition-all text-gray-800">
           <ImageComponent src={CTASecond.image} alt={CTASecond.ctaText} />
           <h3 className="leading-5 text-sm font-medium pt-2">{CTASecond.ctaText}</h3>
           <p className="leading-5 text-sm font-medium border-b-2 pb-1 border-b-gray-900  w-fit pt-1"> {CTASecond.ctaBtn}</p>
         </div>
-        <div className="col-start-2 col-end-3 row-span-2  flex flex-col hover:opacity-75 transition-all text-gray-800">
+        <div className="col-start-2 col-end-3 md:col-start-5 md:col-end-7 row-start-2 row-end-3  md:row-start-2 md:row-end-3  flex flex-col hover:opacity-75 transition-all text-gray-800">
           <ImageComponent src={CTAThird.image} alt={CTAThird.ctaText} />
           <h3 className="leading-5 text-sm font-medium pt-2">{CTAThird.ctaText}</h3>
           <p className="leading-5 text-sm font-medium border-b-2 pb-1 border-b-gray-900 w-fit pt-1"> {CTAThird.ctaBtn}</p>
