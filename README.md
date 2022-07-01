@@ -1,6 +1,6 @@
 # Konbini Otaku 💬🛒⛩️🎌 - Reto Final (parte 2)
 
-Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Kombini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
+Este proyecto constó de proponer "Konbini Otaku", la cual es una tienda virtual en la que podrás adquirir productos, ropa, regalos, arte y souveniers. Adquiere tu producto favorito en la temática del mundo Anime. Konbini Otaku forma parte de la marca "Estación Otaku" y será el lugar ideal para encontrar aquel detalle que necesitas. Nuestro catalogo se actualiza frecuentemente ¡Contamos con productos de los animes de moda! En adición, ofrecemos una experiencia nueva a nuestros clientes a través de nuestro reto. Podrás jugar nuestro quiz Otaku. Responde a la mayoría de preguntas y gana vales de descuento para tu próxima compra.
 
 ### ¿Aceptas nuestro reto?
 
@@ -28,35 +28,39 @@ Adicional: Nuestra tienda presenta links a "Estación Otaku" (web de streaming d
      
 ## Esquemas / Moodboard
       
-[![esquema1.jpg](https://i.postimg.cc/Y9PjW1WS/esquema1.jpg)](https://postimg.cc/tZhX0nD0)
+[![konbini-esquema.jpg](https://i.postimg.cc/hGNwr4RW/konbini-esquema.jpg)](https://postimg.cc/Z9FVYSqV)
            
+[![konbini-moodboard.jpg](https://i.postimg.cc/pVj4yCBk/konbini-moodboard.jpg)](https://postimg.cc/Wt2XHMCJ)
+        
 ### Nuestra presentación
-
-
-
+      
+https://docs.google.com/presentation/d/1Db7aqM9pRuBkgFy06OlU4AN9Uis4aNWZd8W8IYk3niI/edit?usp=sharing
+         
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
          
 [![web-konbini.jpg](https://i.postimg.cc/j2ZcnVg5/web-konbini.jpg)](https://postimg.cc/300mzqH5)
+
+[![web-konbini1-5.jpg](https://i.postimg.cc/DwwsN5QK/web-konbini1-5.jpg)](https://postimg.cc/SJHJ26tZ)
           
-[![web-konbini2.jpg](https://i.postimg.cc/QxKKTGny/web-konbini2.jpg)](https://postimg.cc/KRF86VbP)
+[![web-konbini2.jpg](https://i.postimg.cc/zvkbtRVB/web-konbini2.jpg)](https://postimg.cc/K3R84j7S)
       
 [![web-konbini3.jpg](https://i.postimg.cc/kXwMGj7p/web-konbini3.jpg)](https://postimg.cc/nCjfwGj4)
-         
-[![web-konbini4.jpg](https://i.postimg.cc/Hx4DKxxh/web-konbini4.jpg)](https://postimg.cc/LYXbgmjt)
-       
+        
 ### Vista responsive en mobile
     
 [![mobile-konbini1.jpg](https://i.postimg.cc/pVCMJp39/mobile-konbini1.jpg)](https://postimg.cc/vD4KQHYM)
         
 [![mobile-konbini2.jpg](https://i.postimg.cc/XNQtytyd/mobile-konbini2.jpg)](https://postimg.cc/PNvSg3y5)
-       
-[![mobile-konbini3.jpg](https://i.postimg.cc/hGL54YBJ/mobile-konbini3.jpg)](https://postimg.cc/yJNPvvWB)
+        
+[![mobile-konbini3.jpg](https://i.postimg.cc/25v59BtD/mobile-konbini3.jpg)](https://postimg.cc/4KfZmnZL)
+      
+[![mobile-konbini4.jpg](https://i.postimg.cc/gjyRCTBG/mobile-konbini4.jpg)](https://postimg.cc/vxBc93sK)
       
 ## Arquitectura del proyecto
       
-[![esquema.jpg](https://i.postimg.cc/GhX38Pnn/esquema.jpg)](https://postimg.cc/zVRY4gfx)
+[![konbini-arquitectura.jpg](https://i.postimg.cc/mgPQ2XYg/konbini-arquitectura.jpg)](https://postimg.cc/ZWh9wLsG)
                  
 ## Lenguajes y herramientas
 Se utilizaron diversas herramientas en una primera etapa, para el diseño gráfico, esquemas, mocks, y linea gráfica de la marca "Konbini Otaku" y estudio UX/UI.
@@ -70,14 +74,13 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         <th>CSS</th>
         <th>JavaScript</th>
         <th>Axios</th>
-        <th>WOO Commerce Rest API</th>
-        <th>Wordpress</th>
+        <th>Shopify Storefront API</th>
+        <th>GraphQL</th>
         <th>React Icons</th>   
         <th>Tailwind CSS</th>   
         <th>Figma</th>
         <th>Photoshop</th>
-        <th>Nano ID</th>
-        <th>Tidio</th>
+        <th>Nano ID</th>     
       </tr>
     </thead>
     <tbody>
@@ -97,15 +100,15 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         </td>         
         <td>
           <img
-            src="https://www.carepredict.com/wp-content/uploads/2020/06/Axios-logo.png" width="100%" />
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/2560px-Axios_logo_%282020%29.svg.png" width="100%" />
         </td>
         <td>
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMk0tTzWwBwt2GZVdkLxWn5YqSafX7n81hhxOQXZaSz01TCPvh88NKLemz8uzOcF3Ch3g&usqp=CAU" width="100%" />
+            src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" width="100%" />
         </td>
         <td>
           <img
-            src="https://www.neolo.com/aprende/wp-content/uploads/2014/10/wordpress-logo-simplified-rgb.png" width="100%" />
+            src="https://www.returngis.net/wp-content/uploads/2019/08/graphql-logo.png" width="100%" />
         </td>
         <td>
           <img            src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" width="100%" />
@@ -122,10 +125,7 @@ En la segunda etapa, para desarrollar la web del proyecto, hemos utilizado los s
         </td> 
         <td>
           <img src="https://i.postimg.cc/KzQYK9jL/nano-id.jpg" width="100%" />
-        </td>    
-        <td>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzj8O5IxhaNkGFi3QuVKac3RtsOsLfEpCiEsVfJ-yfIedqyOtBoAn7GRJGufVyhYsk-A&usqp=CAU" width="100%" />
-        </td> 
+        </td>     
       </tr>
     </tbody>
 </table>
