@@ -1,7 +1,8 @@
 const menuItems = [
   { title: "Home", url: "/", blank: false },
-  { title: "Quiz", url: "/quiz", blank: false },
-  { title: "Proyecto Estación Otaku", url: "https://estacion-otaku.vercel.app", blank: true },
+  { title: "Proyecto Estación Otaku", url: "https://estacion-otaku.xyz", blank: true },
+  { title: "Categorías", url: "/categories", blank: false },
+  { title: "Animes", url: "/animes", blank: false },
 ];
 
 export default menuItems;
