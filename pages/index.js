@@ -1,6 +1,5 @@
 import Hero from "../components/Hero";
 
-import Information from "../components/information";
 import Products from "../components/Products/Products";
 
 import Layout from "../components/Layout";
