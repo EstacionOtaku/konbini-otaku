@@ -72,7 +72,7 @@ const SingleCategoryPage = ({ productsData, categoriesData }) => {
         </div>
       </section>
       <section className="flex justify-around my-5 py-1 sm:py-2  md:py-4 lg:py-6 xl:py-5 border-2 border-y-indigo-600">
-        <div>
+        <div className="hidden lg:block">
           <p className=" ext-1xl sm:text-2xl md:text-3xl font-semibold	">
             {name}
           </p>

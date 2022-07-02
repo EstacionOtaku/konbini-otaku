@@ -62,8 +62,17 @@ const ProductPage = ({ productItem, categoryItem, seriesItem }) => {
 
   return (
     <Layout title={name} description={description}>
-      <section className="flex justify-around my-5 py-1 sm:py-2  md:py-4 lg:py-6 xl:py-5 border-2 border-y-indigo-600">
-        <div>
+      <Link href="/categories">
+        <div
+          className=" mx-2 my-2 flex relative lg:absolute lg:pt-5"
+          style={{ zIndex: "1000" }}
+        >
+          <img src="https://i.postimg.cc/VkNJdLXr/atras.png"></img>
+          ATRAS
+        </div>
+      </Link>
+      <section className="flex justify-around my-1 lg:my-5 py-1 sm:py-2  md:py-4 lg:py-6 xl:py-5 border-2 border-y-indigo-600">
+        <div className="hidden lg:block">
           <p className=" ext-1xl sm:text-2xl md:text-3xl font-semibold	">
             {name}
           </p>
@@ -74,13 +83,7 @@ const ProductPage = ({ productItem, categoryItem, seriesItem }) => {
           </p>
         </div>
       </section>
-      <Link href="/categories">
-        <div className=" mx-24 my-5 flex" style={{ zIndex: "1000" }}>
-          <img src="https://i.postimg.cc/VkNJdLXr/atras.png"></img>
-          ATRAS
-        </div>
-      </Link>
-      <section className="grid items-start w-11/12 , grid-cols-1 md:grid-cols-2 p-6 mx-auto md:max-w-screen-lg md:flex-row gap-4 lg:gap-5 ">
+      <section className="grid items-start w-11/12 , grid-cols-1 md:grid-cols-2 pt-0 py-6	 mx-auto md:max-w-screen-lg md:flex-row gap-4 lg:gap-5 ">
         <div className="aspect-[4/4]  sm:rounded sm:overflow-hidden lg:aspect-w-3 lg:aspect-h-4">
           <figure
             style={{ width: "100%", height: "100%", position: "relative" }}
